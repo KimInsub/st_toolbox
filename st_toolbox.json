@@ -22,9 +22,8 @@
         "url": "https://github.com/Psychtoolbox-3/Psychtoolbox-3"
     },
     {
-        "name": "Psychtoolbox",
+        "name": "spatiotemporalPRFs",
         "type": "git",
-        "update": "never",
         "url": "https://github.com/VPNL/spatiotemporalPRFs.git"
     },
     {
