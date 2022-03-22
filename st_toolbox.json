@@ -13,6 +13,7 @@
     {
         "name": "vistasoft",
         "type": "git",
+	"update": "never",
         "url": "https://github.com/KimInsub/vistasoft"
     },
     {
