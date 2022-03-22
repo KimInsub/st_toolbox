@@ -5,10 +5,10 @@
         "url": "https://github.com/KimInsub/st_toolbox.git"
     },
     {
-	"name": "JSONio",
-	"type": "git",
-	"update": "never",
-	"url": "https://github.com/gllmflndn/JSONio.git"
+		"name": "JSONio",
+		"type": "git",
+		"update": "never",
+		"url": "https://github.com/gllmflndn/JSONio.git"
     },
     {
         "name": "vistasoft",
@@ -24,7 +24,7 @@
     {
         "name": "spatiotemporalPRFs",
         "type": "git",
-	"update":"never",
+		"update":"never",
         "url": "https://github.com/VPNL/spatiotemporalPRFs.git"
     },
     {
@@ -38,6 +38,12 @@
         "type": "git",
         "update": "never",
         "url": "https://github.com/KimInsub/fracridge.git"
+    },
+    {
+        "name": "bads",
+        "type": "git",
+        "update": "never",
+        "url": "https://github.com/lacerbi/bads.git"
     }
 
 
